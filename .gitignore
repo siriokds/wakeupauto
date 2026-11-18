@@ -1,2 +1,13 @@
-/build/
+# Local macOS files
 .DS_Store
+
+# Build output
+/build/
+*.app/
+
+# Private notes and diagnostic logs
+/docs/
+/logs/
+*.log
+WakeUpAuto.txt
+WakeUpAuto-*.txt
